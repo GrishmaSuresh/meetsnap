@@ -1,7 +1,7 @@
 import os
 from groq import Groq
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "api key"
 MODEL = "llama-3.1-8b-instant"
 
 TRANSCRIPTS_DIR = r"D:\meetsnap\transcripts"
