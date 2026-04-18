@@ -3,7 +3,7 @@ import textwrap
 from groq import Groq
 
 # 🔐 Groq API Key
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "api key"
 
 # 🤖 Model (FAST + FREE TIER)
 MODEL = "llama-3.1-8b-instant"
