@@ -2,7 +2,7 @@ import requests
 import textwrap
 import os
 
-API_KEY = "3b6243942674f6bf22ebf69c263484af5a691626" # rad account
+API_KEY = "nlp api key" # rad account
 
 MODEL = "finetuned-llama-3-70b"  # if unavailable, use "bart-large-cnn"
 
